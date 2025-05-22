@@ -1,0 +1,1001 @@
+Brand,RAM_GB,Storage_GB,GPU,CPU,Price_USD,Condition
+MSI,32,512,Integrated,Ryzen 3,1248,New
+HP,32,512,Integrated,i9,1227,Refurbished
+HP,16,1024,Integrated,i9,1114,Refurbished
+Apple,4,128,Integrated,Ryzen 7,578,New
+Lenovo,32,512,Integrated,M2,1243,New
+Asus,8,512,Integrated,M1,759,Refurbished
+HP,32,128,Dedicated,M2,1313,New
+Acer,4,512,Integrated,M2,543,New
+Razer,8,512,Dedicated,i3,793,New
+HP,4,1024,Integrated,Ryzen 7,999,New
+Apple,4,1024,Integrated,Ryzen 5,915,Refurbished
+Lenovo,32,512,Dedicated,i3,1591,New
+Apple,4,1024,Integrated,i9,930,New
+Razer,32,1024,Dedicated,M1,1881,Refurbished
+Apple,32,512,Integrated,M2,1343,New
+Apple,4,128,Integrated,M2,453,New
+Acer,8,1024,Integrated,i9,1001,New
+Asus,32,256,Integrated,Ryzen 3,1082,New
+Microsoft,4,512,Dedicated,Ryzen 3,904,Refurbished
+MSI,16,1024,Integrated,M2,1062,New
+Apple,32,128,Dedicated,i7,1336,New
+HP,8,128,Integrated,i5,495,Refurbished
+Razer,4,512,Dedicated,i7,769,New
+Lenovo,32,256,Dedicated,i3,1236,New
+Razer,8,256,Integrated,Ryzen 7,657,Refurbished
+Dell,32,512,Dedicated,M2,1466,New
+Microsoft,32,256,Dedicated,i5,1399,Refurbished
+HP,4,1024,Integrated,i5,886,Refurbished
+Microsoft,4,256,Integrated,i7,508,New
+Dell,32,256,Integrated,i5,1131,Refurbished
+Acer,4,128,Dedicated,Ryzen 5,597,Refurbished
+HP,8,256,Integrated,i3,431,New
+Asus,8,128,Integrated,i3,554,Refurbished
+Acer,32,128,Dedicated,i7,1307,Refurbished
+Dell,32,256,Dedicated,M1,1517,Refurbished
+Razer,4,128,Dedicated,Ryzen 7,658,New
+Microsoft,4,1024,Dedicated,i7,1211,Refurbished
+Lenovo,4,1024,Integrated,Ryzen 7,1060,Refurbished
+Microsoft,16,512,Dedicated,i7,1268,New
+Razer,8,128,Integrated,M1,545,Refurbished
+Asus,8,256,Integrated,M1,551,Refurbished
+HP,4,256,Integrated,Ryzen 7,615,New
+Apple,4,512,Integrated,i5,496,New
+HP,8,256,Integrated,Ryzen 5,472,New
+Razer,8,1024,Integrated,i7,982,Refurbished
+Acer,16,512,Integrated,i9,884,Refurbished
+Asus,8,128,Integrated,M2,579,Refurbished
+Asus,32,1024,Integrated,i3,1654,Refurbished
+Lenovo,16,128,Dedicated,Ryzen 3,926,Refurbished
+Lenovo,32,1024,Dedicated,Ryzen 7,1834,Refurbished
+Asus,32,512,Integrated,i3,1386,Refurbished
+Asus,32,1024,Dedicated,i9,1639,New
+Lenovo,4,128,Dedicated,M2,535,Refurbished
+Dell,4,128,Integrated,i9,296,New
+Microsoft,8,1024,Integrated,M1,1062,Refurbished
+Microsoft,16,256,Dedicated,M1,964,Refurbished
+Apple,32,128,Dedicated,i5,1267,Refurbished
+Acer,32,1024,Integrated,i7,1546,Refurbished
+Dell,32,1024,Integrated,Ryzen 3,1512,New
+Razer,4,512,Dedicated,i5,786,New
+MSI,32,1024,Dedicated,i5,1829,New
+HP,4,256,Integrated,Ryzen 7,569,Refurbished
+Microsoft,32,512,Integrated,i3,1292,New
+Razer,32,256,Dedicated,i5,1317,New
+Dell,8,256,Integrated,Ryzen 7,732,New
+Lenovo,32,1024,Integrated,i3,1507,New
+Acer,4,1024,Dedicated,i3,963,Refurbished
+Apple,8,256,Integrated,i7,659,New
+Asus,8,512,Dedicated,Ryzen 5,906,New
+Microsoft,8,256,Dedicated,i3,770,Refurbished
+Lenovo,16,512,Dedicated,Ryzen 7,1091,New
+HP,16,128,Dedicated,M1,934,Refurbished
+Dell,8,512,Integrated,M2,641,Refurbished
+Microsoft,16,256,Dedicated,M1,1097,Refurbished
+Razer,32,256,Dedicated,Ryzen 3,1412,New
+Acer,32,512,Integrated,i5,1183,Refurbished
+Lenovo,8,128,Dedicated,Ryzen 5,607,Refurbished
+MSI,16,512,Integrated,i7,1045,Refurbished
+Razer,8,128,Integrated,Ryzen 7,713,Refurbished
+Lenovo,16,1024,Integrated,i5,1228,New
+Acer,8,1024,Integrated,i9,1036,Refurbished
+Acer,32,256,Integrated,M1,1154,New
+Acer,16,512,Integrated,M1,971,New
+Dell,32,128,Integrated,Ryzen 5,966,New
+Microsoft,4,512,Integrated,M2,655,New
+Dell,16,512,Integrated,Ryzen 7,917,Refurbished
+Apple,4,128,Integrated,i9,314,New
+Asus,8,256,Integrated,M1,679,Refurbished
+Lenovo,8,512,Dedicated,i5,873,New
+Lenovo,8,1024,Integrated,i3,1027,New
+Acer,32,128,Dedicated,M2,1276,Refurbished
+MSI,16,1024,Integrated,M2,1197,New
+Lenovo,4,128,Dedicated,i9,502,New
+Dell,4,512,Integrated,i5,568,Refurbished
+Asus,32,128,Integrated,Ryzen 3,1147,Refurbished
+Dell,16,256,Integrated,M1,840,New
+Apple,4,256,Dedicated,i3,747,New
+Asus,32,256,Integrated,Ryzen 7,1356,Refurbished
+Acer,32,1024,Integrated,i7,1640,Refurbished
+Microsoft,8,1024,Integrated,i3,941,New
+Microsoft,8,256,Integrated,M1,745,New
+Acer,16,256,Dedicated,Ryzen 3,987,New
+Lenovo,16,256,Integrated,i9,810,New
+Dell,16,512,Dedicated,Ryzen 7,1178,New
+HP,16,1024,Integrated,Ryzen 5,1049,Refurbished
+Razer,32,256,Integrated,M1,1243,Refurbished
+Lenovo,4,1024,Dedicated,M2,1125,New
+Acer,32,128,Integrated,M1,1303,Refurbished
+HP,8,1024,Dedicated,Ryzen 3,1212,Refurbished
+Microsoft,32,512,Integrated,M2,1225,Refurbished
+Asus,4,256,Dedicated,Ryzen 7,630,New
+Acer,8,1024,Integrated,Ryzen 5,998,Refurbished
+HP,8,1024,Integrated,i3,901,New
+Lenovo,4,1024,Integrated,i5,858,Refurbished
+MSI,4,128,Integrated,i9,462,New
+Acer,8,256,Integrated,i7,688,Refurbished
+Apple,4,1024,Integrated,M1,850,New
+Asus,32,1024,Dedicated,M1,1840,Refurbished
+Razer,4,256,Dedicated,i9,712,New
+Apple,4,1024,Integrated,i3,862,New
+Microsoft,16,1024,Integrated,M1,1153,Refurbished
+Razer,8,256,Integrated,i7,671,New
+Microsoft,4,512,Dedicated,M1,1004,New
+Razer,32,1024,Integrated,i9,1524,New
+Microsoft,16,512,Integrated,Ryzen 3,803,Refurbished
+HP,8,256,Dedicated,M2,824,New
+Razer,32,512,Dedicated,i9,1602,Refurbished
+Lenovo,32,512,Integrated,M2,1254,Refurbished
+Apple,16,256,Dedicated,M2,1035,New
+HP,4,1024,Dedicated,i5,1063,Refurbished
+MSI,4,128,Integrated,M1,524,New
+Lenovo,8,256,Dedicated,i7,802,New
+Razer,4,256,Dedicated,Ryzen 5,691,Refurbished
+Lenovo,16,128,Dedicated,i7,947,Refurbished
+Razer,16,512,Integrated,i7,967,Refurbished
+Asus,8,128,Integrated,Ryzen 7,562,New
+HP,4,128,Dedicated,Ryzen 5,609,New
+Acer,32,512,Integrated,i3,1237,New
+Microsoft,16,256,Integrated,M1,890,Refurbished
+Dell,4,512,Dedicated,i7,924,New
+Dell,32,128,Integrated,Ryzen 7,1131,Refurbished
+Apple,8,512,Integrated,i7,676,Refurbished
+HP,4,256,Integrated,i5,575,Refurbished
+Razer,4,1024,Dedicated,Ryzen 7,1146,New
+Dell,8,512,Dedicated,i9,883,Refurbished
+Lenovo,4,512,Integrated,Ryzen 5,659,New
+Asus,4,128,Integrated,i5,477,New
+HP,16,512,Integrated,M2,993,Refurbished
+Lenovo,32,1024,Integrated,M2,1641,New
+Microsoft,8,256,Integrated,Ryzen 7,709,New
+Asus,32,256,Dedicated,Ryzen 5,1254,New
+Razer,32,128,Dedicated,Ryzen 3,1193,New
+MSI,16,1024,Dedicated,i9,1322,New
+Lenovo,32,128,Integrated,M2,1160,Refurbished
+Dell,8,128,Integrated,Ryzen 5,411,New
+Microsoft,32,128,Integrated,Ryzen 5,998,New
+MSI,4,1024,Dedicated,i5,928,Refurbished
+Dell,16,512,Dedicated,Ryzen 7,1213,Refurbished
+Razer,8,256,Dedicated,Ryzen 7,844,New
+Lenovo,8,256,Dedicated,i7,851,New
+HP,8,256,Integrated,Ryzen 7,551,New
+MSI,8,512,Integrated,i9,601,Refurbished
+Acer,4,256,Dedicated,M2,626,Refurbished
+Microsoft,8,256,Dedicated,i5,743,Refurbished
+Asus,32,128,Integrated,Ryzen 5,1176,New
+Razer,8,512,Integrated,i3,716,New
+Dell,4,1024,Integrated,Ryzen 3,839,New
+Microsoft,8,512,Integrated,M1,889,New
+Acer,4,1024,Dedicated,i3,969,Refurbished
+Razer,16,1024,Dedicated,i3,1385,New
+Acer,8,1024,Integrated,i9,843,Refurbished
+Razer,16,512,Dedicated,Ryzen 3,1106,Refurbished
+MSI,16,256,Integrated,i9,782,Refurbished
+Acer,16,128,Integrated,M1,881,Refurbished
+Apple,8,256,Dedicated,M1,888,New
+Apple,32,256,Integrated,Ryzen 3,1273,New
+Asus,32,256,Integrated,i3,1248,Refurbished
+MSI,4,128,Integrated,Ryzen 7,389,New
+MSI,4,512,Dedicated,i5,808,Refurbished
+Dell,8,1024,Dedicated,i5,1071,New
+Asus,8,256,Integrated,i9,484,Refurbished
+HP,8,1024,Dedicated,i5,1031,Refurbished
+Apple,16,128,Dedicated,i5,1001,Refurbished
+Dell,16,512,Dedicated,i7,1259,Refurbished
+Asus,4,1024,Dedicated,Ryzen 5,1054,New
+MSI,16,512,Integrated,Ryzen 5,821,New
+Asus,32,512,Integrated,M1,1446,Refurbished
+Asus,16,512,Integrated,M2,908,New
+Dell,16,512,Integrated,i5,945,New
+HP,16,128,Integrated,M2,621,Refurbished
+MSI,16,128,Dedicated,M1,912,New
+Razer,4,128,Integrated,i3,333,Refurbished
+Microsoft,16,512,Integrated,i7,1090,Refurbished
+Microsoft,4,256,Integrated,M1,652,Refurbished
+Dell,8,256,Dedicated,Ryzen 5,687,New
+Apple,16,256,Integrated,i9,632,Refurbished
+Razer,32,256,Integrated,M1,1133,New
+HP,8,512,Integrated,i7,771,Refurbished
+Acer,32,512,Integrated,Ryzen 5,1254,Refurbished
+MSI,16,1024,Dedicated,i5,1263,New
+MSI,4,512,Integrated,i9,569,New
+Lenovo,8,512,Integrated,Ryzen 7,813,New
+Apple,4,128,Integrated,i3,383,Refurbished
+Dell,8,128,Integrated,M2,455,New
+MSI,16,128,Dedicated,Ryzen 7,953,New
+Dell,8,1024,Integrated,M1,1028,New
+MSI,8,1024,Integrated,M2,938,Refurbished
+MSI,8,1024,Dedicated,Ryzen 7,1356,New
+Lenovo,4,512,Integrated,M2,577,New
+Apple,8,256,Integrated,Ryzen 5,461,Refurbished
+MSI,4,512,Integrated,Ryzen 3,573,Refurbished
+Apple,4,1024,Dedicated,M2,1143,Refurbished
+Asus,8,256,Dedicated,M2,756,Refurbished
+Dell,16,256,Dedicated,Ryzen 7,1158,New
+MSI,4,256,Dedicated,i7,696,New
+MSI,32,1024,Dedicated,i3,1858,New
+Asus,4,128,Integrated,i3,417,Refurbished
+HP,8,128,Integrated,i5,592,Refurbished
+Dell,16,512,Integrated,i5,784,Refurbished
+Lenovo,4,128,Integrated,Ryzen 3,332,New
+Dell,32,128,Integrated,i9,1057,New
+Apple,8,512,Dedicated,i9,999,New
+Lenovo,32,512,Integrated,Ryzen 5,1299,Refurbished
+Lenovo,8,256,Integrated,M1,703,Refurbished
+Apple,16,256,Dedicated,M2,927,Refurbished
+Asus,8,128,Integrated,i7,685,Refurbished
+Lenovo,16,128,Dedicated,Ryzen 7,1113,New
+Acer,32,1024,Dedicated,Ryzen 3,1680,New
+Apple,4,256,Dedicated,i7,807,New
+Apple,4,1024,Integrated,i3,961,New
+Asus,4,256,Dedicated,Ryzen 3,623,Refurbished
+Asus,8,128,Dedicated,M2,632,New
+Dell,4,128,Dedicated,M1,579,New
+Dell,16,512,Integrated,M2,1002,Refurbished
+Razer,16,256,Dedicated,i5,1047,New
+Apple,4,1024,Integrated,i7,1030,Refurbished
+Dell,4,128,Dedicated,Ryzen 7,703,Refurbished
+Acer,8,256,Integrated,Ryzen 5,551,New
+Acer,16,512,Integrated,Ryzen 5,944,New
+Microsoft,8,1024,Integrated,i5,912,New
+HP,8,256,Dedicated,Ryzen 5,692,Refurbished
+Dell,8,256,Dedicated,i7,801,New
+Acer,32,128,Integrated,M1,1092,New
+Lenovo,4,512,Integrated,i7,650,New
+Dell,16,512,Integrated,Ryzen 3,998,New
+Lenovo,16,256,Dedicated,M1,1142,New
+Dell,4,128,Integrated,i5,271,Refurbished
+Lenovo,32,512,Integrated,M1,1457,New
+Lenovo,8,1024,Integrated,i3,973,New
+Lenovo,16,1024,Integrated,Ryzen 5,1146,Refurbished
+Acer,8,512,Integrated,i3,800,Refurbished
+Microsoft,16,512,Integrated,Ryzen 3,830,Refurbished
+Microsoft,32,256,Dedicated,Ryzen 5,1391,New
+Microsoft,16,128,Integrated,Ryzen 3,812,New
+Razer,32,128,Integrated,M1,1164,New
+MSI,32,256,Dedicated,i3,1419,Refurbished
+MSI,32,1024,Integrated,Ryzen 7,1610,Refurbished
+Acer,4,1024,Integrated,Ryzen 7,1021,Refurbished
+Microsoft,8,128,Integrated,i5,459,Refurbished
+MSI,4,1024,Integrated,Ryzen 7,1001,New
+Apple,16,256,Integrated,Ryzen 7,739,New
+Acer,32,512,Integrated,i5,1168,New
+Apple,32,256,Dedicated,M1,1426,Refurbished
+HP,16,512,Integrated,i3,772,New
+HP,32,1024,Integrated,i5,1495,Refurbished
+Acer,16,256,Dedicated,i7,1013,Refurbished
+MSI,32,1024,Integrated,M1,1530,Refurbished
+Dell,4,512,Integrated,i7,695,New
+Razer,8,128,Dedicated,Ryzen 5,710,New
+Asus,8,256,Integrated,i5,626,New
+Acer,8,1024,Dedicated,i7,1334,New
+Acer,16,128,Dedicated,Ryzen 3,846,Refurbished
+Apple,8,128,Integrated,M2,507,New
+Apple,16,128,Integrated,Ryzen 7,762,New
+Acer,4,1024,Dedicated,i5,1091,New
+Microsoft,4,256,Dedicated,Ryzen 5,755,Refurbished
+Dell,4,128,Dedicated,M2,607,Refurbished
+MSI,16,1024,Dedicated,i7,1420,New
+Acer,16,128,Dedicated,Ryzen 7,1049,Refurbished
+Razer,32,256,Integrated,i7,1350,Refurbished
+Acer,8,1024,Integrated,Ryzen 3,974,Refurbished
+Microsoft,32,256,Dedicated,i7,1562,New
+Razer,32,1024,Dedicated,i7,1950,Refurbished
+Lenovo,4,1024,Integrated,M1,885,New
+Razer,4,512,Dedicated,Ryzen 3,800,New
+Razer,8,256,Integrated,i3,434,New
+Acer,16,256,Integrated,M1,895,Refurbished
+HP,32,512,Integrated,M1,1433,Refurbished
+Dell,32,256,Dedicated,M1,1521,Refurbished
+MSI,32,1024,Integrated,M1,1676,Refurbished
+Lenovo,16,256,Integrated,i3,763,New
+Acer,16,1024,Integrated,Ryzen 7,1176,Refurbished
+Dell,4,128,Dedicated,i7,708,New
+Razer,4,128,Dedicated,i5,680,Refurbished
+Acer,32,128,Integrated,Ryzen 5,999,New
+Apple,32,128,Integrated,Ryzen 5,1122,Refurbished
+Razer,4,256,Integrated,Ryzen 3,435,New
+Acer,8,1024,Integrated,Ryzen 7,1002,Refurbished
+HP,4,128,Integrated,i7,382,New
+Razer,8,1024,Integrated,Ryzen 7,1106,New
+MSI,4,512,Integrated,i5,697,Refurbished
+Asus,8,512,Integrated,i5,613,New
+Microsoft,8,128,Dedicated,M1,863,Refurbished
+HP,32,512,Integrated,Ryzen 7,1360,New
+Acer,32,256,Dedicated,i5,1358,Refurbished
+Dell,4,512,Integrated,M1,745,Refurbished
+Razer,4,256,Integrated,i7,540,Refurbished
+Lenovo,8,128,Integrated,Ryzen 3,524,New
+Dell,32,512,Integrated,i3,1289,New
+Microsoft,4,128,Dedicated,Ryzen 7,736,Refurbished
+Lenovo,8,128,Dedicated,i9,624,Refurbished
+Apple,32,1024,Integrated,i9,1491,Refurbished
+Apple,4,512,Integrated,Ryzen 5,658,New
+Razer,8,512,Dedicated,M2,919,Refurbished
+MSI,32,512,Integrated,M1,1275,New
+Acer,32,512,Integrated,M2,1202,New
+Lenovo,8,1024,Dedicated,Ryzen 3,1025,Refurbished
+Lenovo,32,256,Integrated,i3,1028,New
+Razer,16,1024,Dedicated,Ryzen 3,1329,Refurbished
+Lenovo,4,512,Integrated,Ryzen 3,670,Refurbished
+Microsoft,8,512,Integrated,M2,567,New
+Microsoft,32,256,Dedicated,i7,1343,Refurbished
+Lenovo,32,128,Dedicated,i3,1367,New
+Microsoft,32,256,Integrated,i3,1144,New
+Apple,8,1024,Integrated,M1,1003,Refurbished
+Acer,32,1024,Dedicated,i3,1747,New
+HP,32,1024,Integrated,Ryzen 7,1689,New
+HP,32,256,Integrated,i9,1128,New
+Dell,16,512,Dedicated,i9,1147,Refurbished
+Microsoft,32,256,Integrated,i5,1218,New
+Lenovo,16,1024,Integrated,M1,1272,New
+Lenovo,4,1024,Integrated,i7,1016,New
+Microsoft,32,1024,Dedicated,i5,1768,Refurbished
+Microsoft,32,128,Integrated,i5,998,New
+Lenovo,8,128,Dedicated,M2,645,New
+HP,8,1024,Integrated,i5,1008,Refurbished
+HP,4,1024,Dedicated,M1,1205,Refurbished
+MSI,4,512,Integrated,Ryzen 5,485,Refurbished
+Asus,8,256,Dedicated,M2,736,Refurbished
+Asus,4,256,Integrated,M1,675,New
+Razer,16,512,Integrated,M2,820,Refurbished
+Asus,16,256,Integrated,Ryzen 5,866,New
+Dell,8,1024,Integrated,M1,996,Refurbished
+HP,4,512,Dedicated,Ryzen 3,872,New
+Lenovo,8,512,Dedicated,i3,782,New
+HP,8,512,Integrated,M1,816,Refurbished
+Razer,8,128,Integrated,M2,462,New
+MSI,32,512,Integrated,Ryzen 7,1404,New
+Microsoft,8,1024,Integrated,i7,917,Refurbished
+Asus,32,512,Dedicated,Ryzen 7,1652,New
+Acer,32,128,Dedicated,M1,1365,New
+Apple,32,128,Dedicated,i3,1186,New
+Microsoft,8,1024,Dedicated,i7,1276,Refurbished
+Apple,8,128,Dedicated,Ryzen 5,646,Refurbished
+Apple,16,512,Integrated,i5,833,New
+Acer,16,256,Integrated,Ryzen 3,628,Refurbished
+Lenovo,32,512,Dedicated,i5,1560,New
+HP,4,1024,Integrated,i5,904,New
+Dell,4,512,Dedicated,i9,687,Refurbished
+Razer,8,512,Integrated,Ryzen 7,750,Refurbished
+Acer,32,1024,Integrated,M2,1565,Refurbished
+Apple,8,128,Integrated,Ryzen 3,545,Refurbished
+Apple,32,128,Dedicated,i3,1286,Refurbished
+Asus,32,128,Integrated,Ryzen 7,1256,New
+Razer,32,256,Integrated,i5,1160,New
+Razer,8,256,Integrated,i5,484,New
+Dell,8,256,Integrated,Ryzen 5,474,New
+Acer,8,128,Integrated,Ryzen 7,692,Refurbished
+HP,8,1024,Dedicated,i9,1077,New
+Razer,4,128,Dedicated,i9,566,Refurbished
+Acer,4,256,Integrated,i3,553,New
+Apple,16,256,Integrated,M2,725,Refurbished
+Lenovo,32,256,Dedicated,i9,1306,Refurbished
+Acer,32,1024,Integrated,Ryzen 3,1602,New
+Dell,4,512,Dedicated,i5,904,New
+Acer,32,256,Integrated,M1,1343,Refurbished
+Apple,32,512,Dedicated,Ryzen 5,1385,New
+Microsoft,8,256,Dedicated,i9,678,Refurbished
+MSI,16,1024,Dedicated,i9,1240,New
+Acer,32,256,Integrated,Ryzen 7,1311,New
+Asus,32,1024,Dedicated,Ryzen 7,1728,New
+MSI,32,128,Integrated,i9,1179,Refurbished
+Asus,32,256,Integrated,i5,1033,Refurbished
+Dell,16,1024,Integrated,i3,1216,New
+Microsoft,32,512,Integrated,i3,1198,New
+Apple,4,128,Integrated,Ryzen 3,378,Refurbished
+Dell,8,512,Integrated,i9,706,Refurbished
+Acer,32,256,Integrated,M1,1222,Refurbished
+Asus,8,1024,Integrated,i7,1055,Refurbished
+Microsoft,8,512,Dedicated,i3,859,Refurbished
+MSI,16,256,Dedicated,Ryzen 7,952,New
+Microsoft,8,1024,Dedicated,i7,1306,Refurbished
+Asus,16,512,Integrated,Ryzen 3,915,New
+Microsoft,4,128,Integrated,M1,485,Refurbished
+Lenovo,16,512,Integrated,i7,876,Refurbished
+Acer,32,256,Integrated,M2,1119,New
+Lenovo,16,128,Integrated,Ryzen 3,585,Refurbished
+Apple,16,512,Integrated,i3,756,New
+Apple,32,1024,Integrated,i9,1423,New
+Asus,32,1024,Integrated,i3,1445,Refurbished
+Razer,8,512,Integrated,M1,873,Refurbished
+Acer,8,256,Dedicated,i7,800,Refurbished
+Lenovo,16,256,Integrated,M2,674,New
+MSI,8,256,Dedicated,i9,866,Refurbished
+Dell,16,512,Integrated,i7,962,Refurbished
+Razer,32,256,Dedicated,M1,1388,New
+Lenovo,16,256,Integrated,M2,663,New
+MSI,32,128,Dedicated,Ryzen 3,1276,New
+MSI,4,256,Integrated,i7,607,New
+Asus,16,128,Integrated,Ryzen 5,690,New
+Asus,16,512,Dedicated,i3,969,New
+Microsoft,4,512,Dedicated,Ryzen 3,870,Refurbished
+Dell,8,256,Integrated,i9,557,New
+Asus,16,512,Dedicated,M2,969,Refurbished
+Asus,4,256,Integrated,i5,442,Refurbished
+Asus,4,256,Dedicated,i7,738,Refurbished
+Lenovo,8,1024,Dedicated,Ryzen 3,1118,Refurbished
+Dell,4,256,Integrated,M1,664,Refurbished
+Razer,8,256,Dedicated,Ryzen 7,765,Refurbished
+Asus,16,512,Integrated,Ryzen 3,770,New
+Acer,8,256,Integrated,i5,546,New
+Lenovo,16,1024,Integrated,i5,1213,Refurbished
+Asus,32,128,Integrated,Ryzen 3,980,New
+Lenovo,8,256,Integrated,i7,745,Refurbished
+Dell,32,128,Integrated,M1,1088,Refurbished
+Razer,8,128,Dedicated,i5,775,Refurbished
+Lenovo,32,1024,Integrated,M2,1549,New
+Razer,16,512,Dedicated,i7,1164,New
+Razer,4,1024,Integrated,Ryzen 5,939,New
+Razer,32,1024,Integrated,M1,1545,New
+Asus,8,128,Integrated,i5,531,New
+HP,32,256,Integrated,Ryzen 7,1210,Refurbished
+Dell,8,256,Integrated,i5,528,New
+Lenovo,4,1024,Integrated,i7,837,Refurbished
+Asus,32,256,Dedicated,Ryzen 7,1514,Refurbished
+HP,16,256,Integrated,i7,836,Refurbished
+Acer,8,1024,Integrated,i7,1032,Refurbished
+HP,8,128,Integrated,Ryzen 7,613,Refurbished
+Asus,8,1024,Integrated,Ryzen 5,881,New
+HP,8,128,Integrated,Ryzen 7,467,New
+Apple,32,256,Dedicated,M2,1417,New
+Lenovo,4,256,Integrated,M2,422,New
+Apple,32,128,Integrated,Ryzen 5,1100,New
+HP,4,128,Integrated,Ryzen 3,506,New
+Acer,32,256,Integrated,i7,1356,New
+Lenovo,32,128,Dedicated,M2,1386,Refurbished
+Apple,8,256,Dedicated,Ryzen 5,839,Refurbished
+Razer,8,256,Dedicated,Ryzen 5,631,Refurbished
+Microsoft,32,1024,Integrated,i9,1529,New
+Microsoft,16,512,Integrated,Ryzen 5,1003,New
+MSI,32,512,Dedicated,Ryzen 7,1517,New
+Microsoft,32,1024,Dedicated,i7,1790,New
+Asus,16,1024,Integrated,i9,1037,New
+Asus,32,1024,Integrated,Ryzen 3,1455,Refurbished
+Lenovo,4,256,Integrated,i7,581,Refurbished
+Apple,16,128,Integrated,Ryzen 5,582,Refurbished
+Microsoft,4,512,Integrated,i5,475,New
+Acer,4,1024,Integrated,i9,758,New
+Microsoft,16,512,Dedicated,i5,1097,Refurbished
+Dell,32,1024,Integrated,Ryzen 3,1448,Refurbished
+Lenovo,4,256,Integrated,M2,427,Refurbished
+MSI,4,256,Integrated,Ryzen 3,330,Refurbished
+Dell,4,128,Integrated,i5,441,Refurbished
+Dell,16,256,Integrated,i5,632,New
+Asus,4,1024,Integrated,i5,883,Refurbished
+MSI,16,128,Integrated,M1,831,Refurbished
+Acer,8,128,Dedicated,Ryzen 7,728,Refurbished
+MSI,4,256,Integrated,i5,400,New
+Razer,32,1024,Dedicated,i3,1814,Refurbished
+MSI,32,128,Integrated,M2,1001,Refurbished
+Microsoft,8,1024,Integrated,i9,905,New
+Lenovo,16,256,Integrated,M1,796,New
+Razer,4,128,Dedicated,i5,699,New
+Dell,8,128,Integrated,i7,580,Refurbished
+Asus,8,512,Dedicated,M2,892,Refurbished
+Apple,4,1024,Integrated,i5,938,New
+Lenovo,16,128,Integrated,Ryzen 5,603,Refurbished
+HP,4,512,Dedicated,M1,815,Refurbished
+Lenovo,4,1024,Dedicated,Ryzen 3,983,New
+Acer,8,128,Dedicated,M1,892,New
+Razer,32,512,Integrated,M2,1185,New
+Razer,32,1024,Dedicated,M2,1776,New
+Lenovo,32,1024,Dedicated,i7,1834,Refurbished
+Lenovo,4,256,Dedicated,M2,589,New
+Asus,16,1024,Integrated,i9,1248,New
+Apple,32,128,Integrated,i7,1209,New
+Dell,32,128,Dedicated,Ryzen 7,1302,Refurbished
+Asus,32,512,Dedicated,i7,1487,New
+Apple,32,1024,Integrated,i9,1577,New
+Dell,32,128,Integrated,Ryzen 7,1126,New
+Microsoft,4,128,Integrated,Ryzen 3,416,New
+MSI,32,1024,Integrated,Ryzen 3,1650,New
+Asus,16,1024,Integrated,M1,1317,Refurbished
+Microsoft,8,128,Integrated,i5,467,New
+MSI,8,512,Dedicated,Ryzen 3,934,New
+Dell,16,128,Integrated,i9,630,Refurbished
+Lenovo,32,128,Dedicated,Ryzen 3,1363,New
+Asus,4,256,Dedicated,M1,871,Refurbished
+Apple,8,128,Dedicated,Ryzen 5,720,Refurbished
+Asus,32,128,Integrated,i3,1185,Refurbished
+Apple,4,256,Dedicated,Ryzen 3,691,New
+Microsoft,16,128,Dedicated,M1,1048,New
+Apple,4,512,Integrated,Ryzen 3,684,New
+Lenovo,4,1024,Dedicated,i7,1044,Refurbished
+MSI,32,512,Integrated,i7,1341,Refurbished
+Microsoft,16,1024,Dedicated,i7,1316,New
+Apple,8,1024,Dedicated,Ryzen 7,1208,Refurbished
+Acer,32,1024,Integrated,Ryzen 3,1552,Refurbished
+Asus,16,256,Integrated,i7,955,New
+Acer,32,256,Integrated,M2,1207,New
+Microsoft,32,1024,Integrated,M1,1668,New
+MSI,16,512,Integrated,Ryzen 7,1012,Refurbished
+Microsoft,8,256,Integrated,i7,603,New
+Asus,16,1024,Dedicated,i5,1366,Refurbished
+Apple,32,1024,Dedicated,i7,1954,New
+Razer,8,512,Integrated,M2,581,Refurbished
+Razer,32,512,Integrated,i3,1224,New
+HP,4,1024,Dedicated,Ryzen 3,985,New
+Razer,4,1024,Integrated,Ryzen 7,945,Refurbished
+Razer,16,1024,Integrated,i9,1058,New
+Razer,8,1024,Integrated,i9,918,Refurbished
+Dell,16,128,Integrated,i9,704,New
+Microsoft,16,1024,Integrated,i5,1221,New
+Lenovo,8,1024,Dedicated,i7,1222,New
+Acer,4,1024,Dedicated,i3,1082,Refurbished
+Razer,32,128,Dedicated,Ryzen 7,1363,New
+Apple,32,512,Dedicated,i7,1588,New
+Razer,32,256,Dedicated,Ryzen 3,1299,Refurbished
+Lenovo,4,256,Dedicated,i7,868,New
+Microsoft,4,128,Integrated,Ryzen 7,485,Refurbished
+HP,16,256,Integrated,Ryzen 5,678,New
+Microsoft,32,512,Dedicated,i7,1495,Refurbished
+MSI,16,128,Dedicated,Ryzen 3,774,Refurbished
+Apple,32,512,Integrated,i3,1201,Refurbished
+Lenovo,16,1024,Integrated,M2,1101,New
+Lenovo,16,256,Dedicated,i5,1009,New
+Dell,8,512,Dedicated,Ryzen 7,856,New
+Asus,8,128,Dedicated,i7,718,Refurbished
+Acer,4,128,Integrated,Ryzen 7,506,Refurbished
+Acer,32,128,Integrated,i9,1164,New
+Microsoft,32,1024,Dedicated,M2,1813,Refurbished
+Apple,4,256,Dedicated,M1,744,Refurbished
+Acer,32,256,Dedicated,i7,1362,New
+Asus,8,256,Integrated,M1,552,Refurbished
+Asus,16,256,Dedicated,i9,865,New
+Acer,4,128,Integrated,Ryzen 5,473,Refurbished
+Asus,16,1024,Integrated,Ryzen 7,1202,New
+Lenovo,32,256,Integrated,i5,1198,New
+Microsoft,4,256,Integrated,i9,506,Refurbished
+Dell,32,128,Integrated,i5,988,New
+Apple,4,512,Integrated,Ryzen 3,653,Refurbished
+Razer,32,512,Integrated,i3,1316,Refurbished
+Acer,4,1024,Integrated,i5,774,New
+Microsoft,16,256,Integrated,i3,781,Refurbished
+Lenovo,32,1024,Integrated,M1,1724,Refurbished
+Razer,4,256,Integrated,Ryzen 3,408,Refurbished
+Asus,8,1024,Dedicated,M1,1288,New
+HP,16,1024,Integrated,i7,1197,Refurbished
+Dell,8,1024,Integrated,M1,1100,Refurbished
+HP,4,256,Integrated,i3,398,New
+HP,8,512,Integrated,i3,696,New
+Apple,4,1024,Integrated,Ryzen 3,890,Refurbished
+HP,16,128,Integrated,M1,874,New
+MSI,32,128,Integrated,M2,1121,New
+MSI,8,256,Integrated,M1,700,New
+HP,8,256,Integrated,i3,571,New
+Razer,4,256,Integrated,Ryzen 3,345,Refurbished
+Asus,16,256,Integrated,Ryzen 3,742,New
+Lenovo,8,128,Integrated,i9,557,New
+Razer,32,256,Integrated,i7,1240,New
+Microsoft,4,512,Integrated,i7,721,New
+Microsoft,32,1024,Dedicated,i5,1743,Refurbished
+Asus,32,512,Integrated,i5,1312,New
+Asus,16,512,Integrated,M1,986,New
+Lenovo,32,256,Integrated,Ryzen 5,1229,Refurbished
+HP,4,1024,Dedicated,Ryzen 5,1073,New
+Dell,8,128,Integrated,M2,450,New
+Apple,4,128,Dedicated,Ryzen 5,495,New
+Asus,32,1024,Dedicated,M1,1804,Refurbished
+Razer,8,256,Integrated,i7,584,Refurbished
+Dell,4,256,Integrated,i3,543,New
+Microsoft,16,512,Integrated,i7,927,Refurbished
+Lenovo,4,256,Integrated,i3,566,New
+Microsoft,16,512,Integrated,Ryzen 5,806,Refurbished
+Asus,4,256,Dedicated,Ryzen 7,866,New
+Acer,32,512,Dedicated,i7,1490,New
+Microsoft,4,512,Integrated,M1,633,New
+Microsoft,8,1024,Dedicated,i3,1057,Refurbished
+MSI,4,256,Dedicated,M2,723,Refurbished
+Asus,32,128,Dedicated,Ryzen 7,1445,New
+Acer,16,512,Integrated,M1,1078,New
+Razer,16,512,Integrated,M1,1065,New
+Apple,8,256,Integrated,i9,434,New
+Razer,32,512,Dedicated,i7,1540,New
+HP,4,1024,Integrated,Ryzen 5,836,New
+MSI,32,1024,Dedicated,i7,1740,Refurbished
+Apple,32,512,Integrated,Ryzen 3,1157,New
+MSI,16,128,Dedicated,Ryzen 5,960,Refurbished
+Microsoft,4,1024,Integrated,Ryzen 5,945,New
+Acer,8,128,Dedicated,Ryzen 7,858,New
+HP,4,1024,Integrated,M1,951,New
+Acer,8,256,Dedicated,i9,664,New
+MSI,16,512,Integrated,Ryzen 3,977,Refurbished
+Asus,32,128,Integrated,i7,1116,Refurbished
+Acer,32,128,Integrated,i7,1307,New
+Lenovo,8,512,Dedicated,Ryzen 3,863,Refurbished
+Dell,16,512,Integrated,i7,1057,Refurbished
+HP,4,1024,Integrated,M2,770,New
+Microsoft,4,512,Dedicated,M2,783,Refurbished
+Acer,32,1024,Integrated,i5,1525,Refurbished
+Apple,4,512,Integrated,Ryzen 7,569,Refurbished
+Microsoft,32,256,Dedicated,i9,1421,Refurbished
+Apple,8,128,Dedicated,i3,666,Refurbished
+Microsoft,16,512,Integrated,Ryzen 7,877,New
+Apple,8,256,Dedicated,i7,731,New
+Razer,32,1024,Integrated,i5,1440,New
+Dell,8,128,Integrated,i7,678,Refurbished
+MSI,32,256,Dedicated,M1,1397,Refurbished
+Asus,16,256,Dedicated,Ryzen 5,912,Refurbished
+Acer,16,256,Dedicated,Ryzen 7,968,Refurbished
+MSI,32,256,Integrated,Ryzen 3,1044,Refurbished
+MSI,16,256,Integrated,i7,957,New
+MSI,32,128,Dedicated,i7,1350,New
+Razer,8,256,Integrated,i5,513,Refurbished
+MSI,16,512,Integrated,i9,812,New
+Microsoft,4,1024,Integrated,Ryzen 5,930,Refurbished
+Lenovo,4,1024,Integrated,Ryzen 5,723,Refurbished
+Dell,8,128,Dedicated,i7,716,Refurbished
+MSI,32,128,Integrated,i7,1236,Refurbished
+MSI,32,128,Dedicated,i3,1376,Refurbished
+Lenovo,16,512,Integrated,i9,877,New
+Asus,16,128,Integrated,i7,793,Refurbished
+Asus,8,128,Integrated,i5,470,New
+Acer,32,1024,Integrated,i7,1692,New
+Acer,4,256,Dedicated,Ryzen 5,553,Refurbished
+Asus,16,128,Integrated,M1,674,New
+Apple,4,1024,Integrated,Ryzen 3,875,Refurbished
+Asus,32,256,Dedicated,Ryzen 5,1266,Refurbished
+Microsoft,8,1024,Dedicated,Ryzen 3,1065,New
+Lenovo,4,256,Integrated,i3,438,New
+HP,32,512,Dedicated,i9,1505,New
+Dell,8,1024,Dedicated,Ryzen 5,1044,New
+Apple,8,256,Integrated,M2,666,New
+Lenovo,8,256,Integrated,Ryzen 7,754,Refurbished
+Dell,16,256,Dedicated,Ryzen 3,908,Refurbished
+Microsoft,8,512,Integrated,i5,664,New
+Dell,8,1024,Integrated,M1,1112,New
+MSI,8,256,Dedicated,i7,972,Refurbished
+Dell,32,512,Integrated,M2,1195,Refurbished
+MSI,8,256,Dedicated,M1,944,Refurbished
+HP,16,128,Dedicated,Ryzen 7,967,New
+Asus,8,1024,Integrated,Ryzen 3,850,New
+HP,4,512,Integrated,M1,797,Refurbished
+Apple,32,128,Dedicated,Ryzen 5,1335,New
+Razer,4,256,Dedicated,Ryzen 5,629,Refurbished
+Lenovo,32,128,Integrated,Ryzen 5,982,Refurbished
+Dell,8,128,Integrated,M2,550,Refurbished
+Lenovo,16,128,Dedicated,i9,952,New
+MSI,16,256,Dedicated,i3,884,New
+Lenovo,32,128,Integrated,Ryzen 7,1110,New
+Razer,32,128,Integrated,i7,1143,Refurbished
+Dell,16,256,Dedicated,i7,935,New
+Apple,32,512,Dedicated,M2,1436,New
+Asus,32,1024,Dedicated,i9,1729,New
+Apple,4,1024,Dedicated,M2,1111,New
+Lenovo,16,128,Integrated,M1,752,New
+HP,8,128,Dedicated,M2,622,Refurbished
+Microsoft,32,1024,Dedicated,i3,1720,New
+Lenovo,16,256,Dedicated,i5,859,Refurbished
+Asus,4,128,Dedicated,i5,662,New
+Acer,8,512,Dedicated,M1,881,Refurbished
+Acer,32,128,Integrated,M1,1313,Refurbished
+MSI,32,512,Integrated,Ryzen 5,1234,Refurbished
+Dell,16,256,Dedicated,i7,1064,New
+Lenovo,4,512,Integrated,Ryzen 7,627,New
+Apple,16,256,Dedicated,Ryzen 3,1042,New
+MSI,8,256,Dedicated,Ryzen 5,850,New
+Microsoft,32,128,Dedicated,Ryzen 7,1430,Refurbished
+Dell,16,1024,Integrated,i3,1198,Refurbished
+MSI,8,1024,Dedicated,Ryzen 5,1028,New
+Acer,4,256,Dedicated,i3,679,New
+MSI,8,256,Integrated,Ryzen 3,615,New
+Apple,4,128,Integrated,M1,494,New
+Lenovo,32,512,Dedicated,Ryzen 7,1623,Refurbished
+Asus,32,256,Integrated,Ryzen 3,1242,New
+Acer,16,1024,Integrated,i5,1026,New
+Dell,8,128,Dedicated,i3,567,Refurbished
+Asus,32,1024,Dedicated,Ryzen 3,1764,New
+Asus,4,512,Dedicated,i3,816,New
+Lenovo,8,128,Dedicated,i7,833,Refurbished
+MSI,8,1024,Dedicated,i7,1305,Refurbished
+Lenovo,32,128,Integrated,M2,1133,Refurbished
+HP,32,128,Dedicated,M1,1510,Refurbished
+Razer,8,128,Integrated,i5,381,Refurbished
+MSI,32,256,Dedicated,Ryzen 7,1554,New
+HP,8,256,Integrated,Ryzen 3,473,New
+MSI,16,256,Integrated,i5,817,Refurbished
+MSI,8,256,Integrated,i9,489,New
+Razer,4,256,Integrated,M1,612,New
+Apple,8,1024,Integrated,M2,1047,Refurbished
+Lenovo,4,512,Dedicated,Ryzen 5,665,New
+Apple,8,1024,Integrated,i7,1014,Refurbished
+Acer,16,256,Integrated,Ryzen 7,792,New
+Apple,32,256,Integrated,i3,1030,New
+Lenovo,32,256,Integrated,M2,1147,New
+Microsoft,4,128,Integrated,M2,331,New
+Acer,16,128,Dedicated,M2,800,Refurbished
+Dell,32,256,Integrated,i3,1220,New
+Razer,16,256,Dedicated,Ryzen 7,1134,New
+Apple,32,1024,Integrated,i5,1460,Refurbished
+HP,8,512,Integrated,Ryzen 5,751,New
+Razer,16,128,Integrated,i3,813,New
+Acer,4,512,Dedicated,Ryzen 7,984,Refurbished
+Microsoft,4,256,Integrated,i7,625,Refurbished
+HP,4,1024,Dedicated,i7,1074,New
+MSI,32,128,Dedicated,i3,1174,New
+Microsoft,8,1024,Dedicated,Ryzen 5,1237,New
+Dell,4,256,Integrated,i9,379,New
+Asus,16,512,Integrated,i9,827,Refurbished
+Acer,8,1024,Dedicated,Ryzen 3,1074,New
+Dell,32,128,Integrated,i9,1206,Refurbished
+Asus,4,1024,Integrated,Ryzen 5,785,New
+Dell,8,128,Integrated,Ryzen 3,420,Refurbished
+Apple,32,1024,Integrated,Ryzen 7,1752,New
+Acer,16,1024,Dedicated,i5,1331,Refurbished
+MSI,4,128,Integrated,M1,368,New
+Microsoft,4,1024,Dedicated,Ryzen 3,1126,Refurbished
+HP,16,1024,Dedicated,Ryzen 3,1310,Refurbished
+Dell,32,128,Integrated,i9,1204,Refurbished
+Acer,4,512,Integrated,M1,789,New
+Dell,4,256,Integrated,i9,409,New
+MSI,8,1024,Dedicated,i5,1227,New
+MSI,16,256,Dedicated,M1,1154,New
+Microsoft,16,256,Integrated,i9,747,New
+Acer,8,1024,Dedicated,M2,1100,New
+Asus,16,128,Integrated,i5,705,New
+HP,16,512,Dedicated,i3,966,Refurbished
+Acer,4,512,Dedicated,i7,822,New
+MSI,8,512,Integrated,i3,584,New
+Lenovo,32,256,Dedicated,i7,1480,Refurbished
+Razer,8,128,Dedicated,i5,733,New
+Dell,4,512,Dedicated,Ryzen 3,695,New
+HP,16,256,Dedicated,i7,1066,Refurbished
+MSI,32,128,Integrated,M2,1179,New
+Dell,32,512,Integrated,Ryzen 7,1293,Refurbished
+Dell,32,128,Integrated,i5,1096,Refurbished
+Dell,16,1024,Integrated,Ryzen 7,1257,Refurbished
+HP,16,512,Integrated,i3,815,Refurbished
+Dell,32,128,Integrated,i5,991,Refurbished
+Apple,16,256,Integrated,Ryzen 5,708,New
+Microsoft,16,512,Integrated,Ryzen 5,800,Refurbished
+Apple,16,512,Integrated,Ryzen 7,948,New
+Lenovo,4,128,Dedicated,i5,530,Refurbished
+Lenovo,4,128,Integrated,M2,361,Refurbished
+HP,8,256,Integrated,M2,632,New
+Asus,4,512,Integrated,Ryzen 5,461,Refurbished
+Acer,16,256,Integrated,Ryzen 3,707,New
+Apple,16,1024,Dedicated,i9,1308,New
+Lenovo,16,256,Integrated,Ryzen 7,775,Refurbished
+Razer,8,128,Dedicated,Ryzen 7,770,Refurbished
+HP,32,512,Integrated,Ryzen 3,1336,Refurbished
+Microsoft,16,256,Dedicated,i9,1018,New
+Microsoft,4,1024,Dedicated,Ryzen 7,1199,Refurbished
+HP,4,128,Integrated,Ryzen 3,498,Refurbished
+Lenovo,32,256,Dedicated,i7,1576,New
+Asus,4,1024,Integrated,Ryzen 7,834,New
+HP,16,512,Integrated,i5,915,Refurbished
+Acer,8,512,Integrated,Ryzen 3,713,New
+Apple,4,128,Dedicated,M1,645,New
+Razer,8,512,Dedicated,Ryzen 3,961,New
+Dell,16,256,Dedicated,M1,939,New
+Lenovo,32,128,Integrated,M1,1287,New
+HP,32,128,Integrated,i7,1218,Refurbished
+MSI,4,1024,Dedicated,M1,1028,New
+Apple,8,256,Integrated,i7,625,Refurbished
+MSI,16,512,Dedicated,i7,1143,Refurbished
+Acer,8,256,Dedicated,i9,867,Refurbished
+Acer,32,512,Integrated,M1,1413,Refurbished
+Acer,16,256,Integrated,i5,860,Refurbished
+Microsoft,32,1024,Dedicated,Ryzen 5,1674,New
+Apple,32,1024,Integrated,M2,1490,New
+Microsoft,16,1024,Dedicated,M1,1532,New
+Asus,8,512,Dedicated,M1,1003,Refurbished
+HP,32,128,Dedicated,M1,1505,New
+Razer,4,256,Dedicated,i7,819,New
+MSI,4,512,Dedicated,i5,805,New
+Razer,8,1024,Dedicated,Ryzen 7,1229,Refurbished
+HP,8,1024,Integrated,Ryzen 5,1029,New
+MSI,4,256,Integrated,i9,537,Refurbished
+Razer,8,128,Dedicated,i7,855,New
+Dell,8,1024,Dedicated,Ryzen 7,1315,New
+HP,32,256,Dedicated,Ryzen 7,1554,Refurbished
+MSI,4,256,Integrated,M2,531,Refurbished
+MSI,16,1024,Integrated,M2,1150,Refurbished
+Apple,32,1024,Dedicated,i5,1722,Refurbished
+HP,32,256,Integrated,i3,1206,Refurbished
+Lenovo,32,128,Integrated,i7,1278,New
+MSI,32,128,Integrated,Ryzen 3,1137,New
+Microsoft,4,128,Integrated,M2,267,Refurbished
+HP,4,256,Integrated,i5,468,New
+Razer,8,512,Dedicated,Ryzen 5,770,Refurbished
+Apple,8,1024,Dedicated,M2,1168,New
+HP,8,256,Integrated,i3,459,Refurbished
+HP,32,256,Integrated,M2,1233,Refurbished
+Dell,32,1024,Integrated,M1,1714,New
+Microsoft,32,128,Integrated,i3,1044,New
+Asus,32,256,Dedicated,i3,1411,Refurbished
+Microsoft,32,256,Integrated,i3,1048,Refurbished
+Acer,8,256,Dedicated,i7,828,New
+HP,16,1024,Dedicated,Ryzen 7,1317,New
+Razer,32,512,Dedicated,i9,1552,New
+Asus,8,256,Dedicated,i9,628,Refurbished
+MSI,16,128,Integrated,Ryzen 3,729,New
+Lenovo,16,256,Integrated,M2,816,New
+HP,16,128,Integrated,M1,904,New
+Apple,8,512,Dedicated,i5,767,New
+Apple,8,512,Integrated,Ryzen 5,791,Refurbished
+Asus,16,512,Integrated,i9,827,Refurbished
+Lenovo,16,1024,Integrated,Ryzen 3,1228,New
+Lenovo,8,1024,Dedicated,i9,1064,Refurbished
+Dell,4,256,Integrated,i7,454,Refurbished
+Acer,32,256,Dedicated,M1,1571,Refurbished
+Asus,16,128,Integrated,i9,656,New
+Acer,8,128,Integrated,i7,644,New
+Dell,4,1024,Dedicated,Ryzen 3,1033,Refurbished
+Apple,32,256,Dedicated,Ryzen 3,1273,New
+HP,32,512,Integrated,Ryzen 7,1477,Refurbished
+Microsoft,8,1024,Integrated,M1,928,Refurbished
+Asus,32,1024,Dedicated,Ryzen 3,1695,New
+Razer,4,512,Integrated,i9,621,Refurbished
+HP,32,512,Integrated,Ryzen 5,1343,Refurbished
+MSI,16,1024,Integrated,M1,1357,Refurbished
+MSI,4,128,Integrated,i3,393,New
+Microsoft,4,128,Dedicated,i3,602,Refurbished
+MSI,32,512,Dedicated,M2,1564,New
+Dell,16,1024,Integrated,Ryzen 5,1029,Refurbished
+Asus,4,1024,Dedicated,Ryzen 5,993,New
+HP,4,256,Integrated,i7,522,Refurbished
+Asus,16,256,Dedicated,i9,838,New
+Acer,16,512,Dedicated,i5,988,New
+Razer,32,128,Dedicated,i7,1432,Refurbished
+Dell,16,128,Integrated,i5,777,Refurbished
+Dell,32,512,Dedicated,i7,1496,New
+Lenovo,4,512,Integrated,Ryzen 3,576,Refurbished
+Apple,4,256,Integrated,Ryzen 3,534,New
+Lenovo,4,1024,Integrated,i7,897,New
+HP,8,1024,Integrated,Ryzen 5,972,Refurbished
+MSI,16,1024,Integrated,i5,1171,Refurbished
+Apple,4,512,Dedicated,i3,752,Refurbished
+Lenovo,32,1024,Integrated,M1,1544,Refurbished
+Razer,4,1024,Dedicated,Ryzen 5,1069,Refurbished
+Apple,16,256,Integrated,i5,743,New
+HP,4,256,Integrated,M1,530,New
+Razer,8,1024,Integrated,i9,914,New
+Microsoft,8,256,Integrated,i5,549,New
+HP,8,256,Dedicated,i7,953,Refurbished
+Apple,32,256,Integrated,Ryzen 3,1199,New
+Razer,8,1024,Integrated,i7,1114,New
+Lenovo,32,512,Integrated,i9,1278,Refurbished
+Lenovo,8,1024,Integrated,i7,917,New
+HP,4,128,Dedicated,Ryzen 7,786,Refurbished
+Apple,8,512,Integrated,i9,669,Refurbished
+Apple,8,256,Dedicated,Ryzen 5,699,Refurbished
+Apple,16,1024,Dedicated,i9,1273,New
+Acer,16,256,Dedicated,M2,938,Refurbished
+Razer,16,1024,Dedicated,Ryzen 5,1218,New
+HP,16,512,Dedicated,Ryzen 3,1163,New
+Apple,16,128,Integrated,M1,721,New
+MSI,32,128,Dedicated,i5,1290,Refurbished
+HP,16,1024,Dedicated,i9,1252,New
+Asus,4,128,Integrated,i7,377,Refurbished
+Dell,32,1024,Integrated,i5,1657,Refurbished
+Dell,8,256,Integrated,i5,439,Refurbished
+Razer,16,128,Integrated,i5,608,Refurbished
+Acer,8,128,Dedicated,M2,710,Refurbished
+Apple,8,128,Dedicated,M1,763,New
+Asus,4,512,Dedicated,i9,876,Refurbished
+Lenovo,4,256,Dedicated,M2,710,New
+Razer,4,128,Integrated,i3,307,New
+Microsoft,4,128,Integrated,M2,409,Refurbished
+Apple,16,128,Dedicated,Ryzen 7,900,Refurbished
+Asus,16,256,Dedicated,i7,1032,New
+Acer,8,1024,Integrated,i7,1067,Refurbished
+Microsoft,32,128,Integrated,i3,998,New
+MSI,8,1024,Integrated,i9,993,Refurbished
+HP,16,512,Integrated,Ryzen 7,952,Refurbished
+Dell,4,512,Dedicated,M1,804,Refurbished
+Lenovo,8,256,Dedicated,i5,786,New
+HP,4,512,Integrated,Ryzen 7,579,Refurbished
+Asus,16,1024,Integrated,i5,1015,Refurbished
+Asus,4,512,Dedicated,M1,881,New
+HP,16,1024,Dedicated,i9,1363,Refurbished
+HP,16,256,Integrated,i7,906,Refurbished
+Lenovo,32,1024,Integrated,M2,1575,New
+Apple,16,1024,Integrated,i9,1109,Refurbished
+Microsoft,8,512,Integrated,i5,621,New
+Acer,4,512,Integrated,M2,619,New
+Microsoft,32,512,Integrated,i9,1325,New
+Razer,4,1024,Dedicated,i5,1097,Refurbished
+Lenovo,8,128,Dedicated,i7,675,New
+MSI,16,512,Integrated,i3,773,Refurbished
+Asus,32,128,Dedicated,i9,1306,New
+Dell,32,256,Integrated,i9,1053,New
+MSI,4,1024,Dedicated,i9,1151,New
+Microsoft,8,512,Dedicated,i3,797,New
+Apple,32,256,Integrated,M1,1205,Refurbished
+Acer,16,256,Integrated,Ryzen 7,764,Refurbished
+Razer,8,1024,Dedicated,Ryzen 3,1248,New
+Dell,16,128,Integrated,M1,909,Refurbished
+Apple,32,256,Dedicated,Ryzen 7,1438,Refurbished
+Apple,8,128,Integrated,Ryzen 5,594,Refurbished
+HP,4,256,Integrated,i9,457,New
+Dell,4,128,Integrated,Ryzen 5,408,Refurbished
+Apple,4,1024,Integrated,i7,1060,Refurbished
+Razer,16,1024,Integrated,Ryzen 7,1274,Refurbished
+Razer,16,512,Dedicated,i3,1148,Refurbished
+MSI,4,1024,Dedicated,i5,1095,New
+MSI,4,128,Integrated,i5,414,New
+MSI,32,512,Integrated,M2,1294,New
+Dell,32,1024,Dedicated,i3,1729,Refurbished
+Apple,16,128,Integrated,Ryzen 7,865,Refurbished
+Acer,16,128,Integrated,M2,639,New
+HP,8,256,Dedicated,i9,628,Refurbished
+Apple,4,128,Integrated,Ryzen 3,271,New
+Microsoft,4,256,Dedicated,i5,528,New
+Asus,4,128,Integrated,i3,381,Refurbished
+MSI,4,128,Integrated,M1,484,New
+Microsoft,32,128,Dedicated,M1,1438,New
+Apple,8,256,Dedicated,Ryzen 5,792,New
+Acer,4,128,Dedicated,M2,583,Refurbished
+MSI,16,1024,Dedicated,Ryzen 5,1367,New
+Apple,4,256,Dedicated,i9,661,New
+Asus,16,512,Integrated,i9,944,New
+Razer,8,256,Integrated,i5,505,New
+HP,8,1024,Integrated,i9,848,New
+Asus,8,1024,Dedicated,Ryzen 7,1140,Refurbished
+Razer,16,512,Dedicated,Ryzen 3,990,Refurbished
+Apple,4,128,Integrated,M1,608,New
+MSI,32,512,Integrated,Ryzen 5,1316,Refurbished
+HP,4,1024,Integrated,Ryzen 3,917,New
+MSI,16,512,Dedicated,i3,975,New
+MSI,8,1024,Dedicated,i3,1227,New
+Acer,4,128,Dedicated,i9,589,New
+Lenovo,4,512,Dedicated,Ryzen 7,805,New
+Apple,16,128,Dedicated,Ryzen 5,802,New
+Acer,4,1024,Integrated,M1,1050,New
+Asus,16,1024,Integrated,i3,1162,Refurbished
+Microsoft,4,256,Dedicated,M1,711,New
+Microsoft,32,1024,Integrated,i9,1537,Refurbished
+Acer,16,512,Integrated,Ryzen 3,835,Refurbished
+Apple,16,256,Dedicated,M1,1051,Refurbished
+Microsoft,32,512,Dedicated,Ryzen 7,1697,Refurbished
+Acer,32,128,Integrated,i5,1210,New
+Apple,8,512,Dedicated,i7,951,Refurbished
+Razer,4,256,Integrated,i5,566,Refurbished
+Microsoft,8,128,Integrated,M1,497,Refurbished
+HP,32,1024,Dedicated,Ryzen 3,1730,New
+HP,32,512,Dedicated,M2,1557,New
+Razer,8,128,Integrated,i9,573,Refurbished
+Microsoft,32,512,Dedicated,M1,1591,Refurbished
+MSI,8,256,Dedicated,i3,740,New
+Acer,32,128,Integrated,M2,1035,Refurbished
+HP,8,256,Dedicated,Ryzen 3,823,New
+Asus,32,256,Dedicated,Ryzen 5,1374,New
+Acer,16,256,Dedicated,i9,969,Refurbished
+Apple,16,1024,Integrated,i9,1080,Refurbished
+Dell,8,1024,Integrated,Ryzen 3,1001,Refurbished
+HP,32,256,Dedicated,Ryzen 7,1569,New
+Apple,4,256,Dedicated,i7,690,New
+Lenovo,32,256,Dedicated,Ryzen 5,1396,New
+Acer,8,1024,Dedicated,Ryzen 3,1024,Refurbished
+Acer,8,128,Dedicated,Ryzen 7,740,New
+Dell,4,512,Integrated,M1,758,New
+Dell,32,512,Dedicated,i9,1480,Refurbished
+Apple,4,256,Dedicated,Ryzen 7,759,New
+HP,16,1024,Dedicated,Ryzen 3,1409,Refurbished
+Razer,32,256,Dedicated,i9,1368,New
+Acer,32,1024,Dedicated,i7,1794,Refurbished
+Apple,32,512,Dedicated,i3,1484,Refurbished
+Asus,8,512,Integrated,i9,609,New
+Apple,16,512,Dedicated,Ryzen 5,1168,Refurbished
+Dell,8,512,Integrated,i5,631,Refurbished
+HP,32,512,Dedicated,Ryzen 3,1498,New
+HP,4,1024,Dedicated,i3,971,New
+Microsoft,16,512,Integrated,i5,916,Refurbished
+Razer,16,512,Integrated,i9,996,New
+Microsoft,8,128,Integrated,M1,565,Refurbished
+Microsoft,8,128,Integrated,i7,562,Refurbished
+Lenovo,8,512,Integrated,Ryzen 7,861,New
+Lenovo,16,1024,Dedicated,M1,1485,New
+HP,16,1024,Integrated,i3,1096,Refurbished
+Acer,16,256,Dedicated,Ryzen 5,875,Refurbished
+Razer,16,512,Dedicated,i7,1211,Refurbished
+Apple,8,256,Integrated,i7,681,New
+Asus,4,512,Integrated,i3,588,New
+Razer,4,256,Integrated,i7,464,New
+Apple,32,128,Integrated,i9,1191,Refurbished
+Asus,16,128,Dedicated,i3,939,New
+HP,32,1024,Integrated,i7,1557,Refurbished
+Razer,4,512,Dedicated,i5,778,New

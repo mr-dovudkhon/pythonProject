@@ -1,0 +1,17 @@
+<!-- templates/ask_budget.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Budget</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <h2>What's your maximum budget (USD)?</h2>
+        <form method="post" action="/budget">
+            <input type="number" name="budget" required>
+            <button type="submit">Next</button>
+        </form>
+    </div>
+</body>
+</html>

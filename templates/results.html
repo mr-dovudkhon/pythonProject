@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Recommended Laptops</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Top Laptop Recommendations</h2>
+        <p>{{ reasoning }}</p>
+        <table>
+            <thead>
+                <tr>
+                    <th>Brand</th>
+                    <th>RAM (GB)</th>
+                    <th>Storage (GB)</th>
+                    <th>GPU</th>
+                    <th>CPU</th>
+                    <th>Price (USD)</th>
+                    <th>Condition</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for laptop in laptops %}
+                <tr>
+                    <td>{{ laptop.Brand }}</td>
+                    <td>{{ laptop.RAM_GB }}</td>
+                    <td>{{ laptop.Storage_GB }}</td>
+                    <td>{{ laptop.GPU }}</td>
+                    <td>{{ laptop.CPU }}</td>
+                    <td>{{ laptop.Price_USD }}</td>
+                    <td>{{ laptop.Condition }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        <a href="/">Start Over</a>
+    </div>
+</body>
+</html>

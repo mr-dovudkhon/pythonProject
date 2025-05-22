@@ -1,0 +1,18 @@
+Use_Case,Min_RAM_GB,Min_Storage_GB,Required_GPU,Preferred_CPU,Max_Budget_USD
+School Student,4,128,Integrated,i3,300
+University Student (Programming),8,256,Integrated,i5,600
+Data Analyst,8,512,Integrated,i5,700
+Data Engineer,16,512,Dedicated,i7,1200
+Graphic Designer,32,1024,Dedicated,i7,1800
+Backend Developer,16,512,Integrated,i7,1000
+Mobile Developer (Android Studio),16,512,Dedicated,i7,1300
+Game Developer (Unity/Unreal),32,1024,Dedicated,i9,1800
+AI/ML Researcher,32,1024,Dedicated,i7,2000
+Cybersecurity Student,16,512,Integrated,i7,1000
+Financial Analyst,16,512,Integrated,i5,900
+Video Game Streamer,32,1024,Dedicated,i7,2000
+Photo Editor (Lightroom),16,512,Dedicated,i5,1100
+Full Stack Developer,16,512,Integrated,i7,1200
+DevOps Engineer,32,1024,Integrated,i7,1500
+UX/UI Designer,16,512,Integrated,i5,1000
+3D Artist (Blender),32,1024,Dedicated,i9,2200

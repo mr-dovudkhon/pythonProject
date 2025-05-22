@@ -1,0 +1,46 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Welcome - SmartLaptop Advisor</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to SmartLaptop Advisor 💻</h1>
+        <p>
+            We help students, developers, designers, and professionals find the best laptop for their needs.
+            You can either choose a category or describe what you need the laptop for in your own words.
+        </p>
+
+        <h2>Option 1: Select what you'll use your laptop for</h2>
+        <form method="post" action="/use_case">
+            <select name="use_case" required>
+                <option value="">-- Choose a Use Case --</option>
+                <option>School Student</option>
+                <option>University Student (Programming)</option>
+                <option>Mobile Developer (Android Studio)</option>
+                <option>Backend Developer</option>
+                <option>Data Analyst</option>
+                <option>Data Engineer</option>
+                <option>Graphic Designer</option>
+                <option>Gamer</option>
+                <option>AI/ML Researcher</option>
+                <option>Cybersecurity Student</option>
+                <option>Full Stack Developer</option>
+                <option>DevOps Engineer</option>
+                <option>UX/UI Designer</option>
+            </select>
+            <button type="submit">Next</button>
+        </form>
+
+        <hr>
+
+        <h2>Option 2: Just describe what you need the laptop for</h2>
+        <form method="post" action="/nlp_input">
+            <textarea name="description" rows="4" cols="50" placeholder="e.g., I’m a backend developer using Django and Docker." required></textarea><br>
+            <button type="submit">Suggest for Me</button>
+        </form>
+    </div>
+</body>
+</html>
